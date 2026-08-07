@@ -7,7 +7,7 @@ tags:
 - pypi
 - homebrew
 desc: "A practical guide to automating Python package releases to PyPI and Homebrew using uv and GitHub Actions"
-url: https://manojkarthick.com
+url: https://manojkarthick.netlify.app
 twitter: manojkarthick
 name: Manoj Karthick
 ---
