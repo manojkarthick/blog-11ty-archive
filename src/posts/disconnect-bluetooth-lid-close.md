@@ -7,8 +7,8 @@ tags:
 - hammerspoon
 - automation
 desc: "Use hammerspoon to watch for system sleep events and automatically disconnect configured bluetooth headphones using the bluetoothconnector package and a custom bash script"
-url: https://manojkarthick.com
-img: https://manojkarthick.com/img/sony-wh-1000xm4.jpg
+url: https://manojkarthick.netlify.app
+img: https://manojkarthick.netlify.app/img/sony-wh-1000xm4.jpg
 img_alt: "Sony WH-1000XM4 Headphones"
 type: summary_large_image
 twitter: manojkarthick

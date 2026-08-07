@@ -6,8 +6,8 @@ tags:
 - netlify
 - automation
 desc: "Using Netlify scheduled functions (cron jobs) to rebuild your website periodically"
-url: https://manojkarthick.com
-img: https://manojkarthick.com/img/netlify-scheduled-function.png
+url: https://manojkarthick.netlify.app
+img: https://manojkarthick.netlify.app/img/netlify-scheduled-function.png
 img_alt: "Sony WH-1000XM4 Headphones"
 type: summary_large_image
 twitter: manojkarthick
@@ -88,9 +88,9 @@ The projects page on my blog displays when the information was last updated. I f
 [1]: https://www.netlify.com/
 [2]: https://dev.to/quirrel/quirrel-is-acquired-and-i-am-joining-netlify-dha
 [3]: https://github.com/netlify/labs/blob/main/features/scheduled-functions/documentation/README.md
-[4]: https://manojkarthick.com/about/#about-this-blog
+[4]: https://manojkarthick.netlify.app/about/#about-this-blog
 [5]: https://www.11ty.dev/
-[6]: https://manojkarthick.com/projects/
+[6]: https://manojkarthick.netlify.app/projects/
 [7]: https://github.com/manojkarthick
 [8]: https://www.11ty.dev/docs/filters/
 [9]: https://github.com/manojkarthick/blog/blob/6a23a15a7eeeecd07aa6dc38d1a403f824c33fde/.eleventy.js#L60

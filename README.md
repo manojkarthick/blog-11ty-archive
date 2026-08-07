@@ -1,6 +1,6 @@
 # Blog  [![Netlify Status](https://api.netlify.com/api/v1/badges/1fb26768-91cf-49f0-ab46-79fe7477fc26/deploy-status)](https://app.netlify.com/projects/manojkarthick/deploys)
 
-This repo contains the source code for my personal blog. You can view it [here](https://www.manojkarthick.com/).
+This repo contains the source code for my personal blog archive. You can view it [here](https://manojkarthick.netlify.app/).
 Built with [11ty](https://11ty.dev) and hosted on [Netlify](https://www.netlify.com).
 
 ### Building this site
